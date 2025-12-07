@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "teacher_id": 1,
+    "course_id": 1,
+    "name": "Python для гуманитариев 2024",
+    "description": "Группа для студентов гуманитарных специальностей",
+    "join_code": "PYTHON2024",
+    "start_date": "2024-09-01",
+    "end_date": "2024-12-31",
+    "is_active": true,
+    "created_at": "2025-12-06T15:12:42.331Z"
+  },
+  {
+    "id": 2,
+    "teacher_id": 7,
+    "course_id": 3,
+    "name": "Питон ДК-2 , 2025",
+    "description": "Класс ДК-2",
+    "join_code": "CLASSTM4HTV",
+    "start_date": "2025-12-06",
+    "end_date": "2026-03-06",
+    "is_active": true,
+    "created_at": "2025-12-06T17:45:55.064Z"
+  },
+  {
+    "id": 3,
+    "teacher_id": 7,
+    "course_id": 3,
+    "name": "Питон ДК-3 , 2025",
+    "description": "акеукеке",
+    "join_code": "CLASS941E17",
+    "start_date": "2025-12-06",
+    "end_date": "2026-03-06",
+    "is_active": true,
+    "created_at": "2025-12-06T19:58:12.379Z"
+  },
+  {
+    "id": 4,
+    "teacher_id": 7,
+    "course_id": 3,
+    "name": "Питон ДК-3 , 2025",
+    "description": "535345345",
+    "join_code": "CLASSCI4RYT",
+    "start_date": "2025-12-06",
+    "end_date": "2026-03-06",
+    "is_active": true,
+    "created_at": "2025-12-06T20:44:16.779Z"
+  }
+]

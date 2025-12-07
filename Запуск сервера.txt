@@ -1,0 +1,2 @@
+cd E:\Program_Python\pythonlab\backend
+node server.js

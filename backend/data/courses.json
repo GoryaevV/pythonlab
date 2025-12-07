@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Python для начинающих",
+    "description": "Освоите основы программирования на Python с нуля",
+    "category": "programming",
+    "difficulty": "beginner",
+    "duration_hours": 40,
+    "is_public": true,
+    "creator_id": 1,
+    "author_name": "Анна Петрова",
+    "created_at": "2025-12-06T15:12:42.331Z"
+  },
+  {
+    "id": 2,
+    "title": "Алгоритмы и структуры данных",
+    "description": "Углубленное изучение алгоритмов на Python",
+    "category": "algorithms",
+    "difficulty": "intermediate",
+    "duration_hours": 60,
+    "is_public": true,
+    "creator_id": 1,
+    "author_name": "Анна Петрова",
+    "created_at": "2025-12-06T15:12:42.331Z"
+  },
+  {
+    "id": 3,
+    "title": "Python базовый",
+    "description": "Курс для студентов Цифровой кафедры",
+    "category": "programming",
+    "difficulty": "beginner",
+    "duration_hours": 60,
+    "creator_id": 7,
+    "author_name": "Vladimir Goryaev",
+    "is_public": true,
+    "created_at": "2025-12-06T17:29:15.505Z"
+  },
+  {
+    "id": 4,
+    "title": "Python стандартный",
+    "description": "Python стандартный для курсов Цифровой кафедры КалмГУ",
+    "category": "programming",
+    "difficulty": "intermediate",
+    "duration_hours": 60,
+    "creator_id": 7,
+    "author_name": "Vladimir Goryaev",
+    "is_public": true,
+    "created_at": "2025-12-06T17:43:52.331Z"
+  },
+  {
+    "id": 5,
+    "title": "Курс Python базовый",
+    "description": "Курс Python базовый для ЦК",
+    "category": "programming",
+    "difficulty": "beginner",
+    "duration_hours": 40,
+    "creator_id": 7,
+    "author_name": "Vladimir Goryaev",
+    "is_public": true,
+    "created_at": "2025-12-06T17:44:39.951Z"
+  },
+  {
+    "id": 6,
+    "title": "Python стандартный",
+    "description": "апап",
+    "category": "programming",
+    "difficulty": "beginner",
+    "duration_hours": 40,
+    "creator_id": 7,
+    "author_name": "Vladimir Goryaev",
+    "is_public": true,
+    "created_at": "2025-12-06T19:04:29.518Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "class_id": 1,
+    "student_id": 2,
+    "joined_at": "2024-09-01",
+    "status": "active",
+    "final_grade": null
+  },
+  {
+    "id": 2,
+    "class_id": 2,
+    "student_id": 9,
+    "joined_at": "2025-12-06T20:01:58.436Z",
+    "status": "active",
+    "final_grade": null
+  },
+  {
+    "id": 3,
+    "class_id": 2,
+    "student_id": 8,
+    "joined_at": "2025-12-06T20:48:29.441Z",
+    "status": "active",
+    "final_grade": null
+  }
+]
